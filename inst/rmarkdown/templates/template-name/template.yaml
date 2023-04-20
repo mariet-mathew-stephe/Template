@@ -1,0 +1,4 @@
+name: o2r_report_template
+description: >
+  A RMD template for project result submission by Oncology Outcomes team
+create_dir: FALSE
